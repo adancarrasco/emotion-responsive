@@ -1,0 +1,26 @@
+{
+  "name": "emotion-responsive",
+  "version": "0.1.1",
+  "description": "Use media queries with EmotionJS the easy way.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "emotion",
+    "responsive",
+    "media",
+    "queries",
+    "styled",
+    "components"
+  ],
+  "author": "adancarrasco",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
+}
